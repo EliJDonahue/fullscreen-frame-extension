@@ -1,0 +1,1 @@
+Fullscreen Frame does not collect, store, transmit, or share any user data. It runs only on the page the user is viewing, and only when the user clicks the toolbar button or presses the keyboard shortcut. It makes no network requests and has no analytics or tracking.
